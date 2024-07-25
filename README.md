@@ -1,5 +1,4 @@
 # 0x08-palindromeChecker
-The certification project under the FCC JS algorithms and data structures curriculum (PART 1).
 This project is a web-based application that checks if a given input string is a palindrome.
 A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization)
 
